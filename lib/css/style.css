@@ -23,9 +23,22 @@ article {
 	grid-template-areas:
 				"ingredients image"
 				"directions directions";
-	grid-template-rows: 1fr 1fr;
+	grid-template-rows: 2fr 1fr;
 	grid-template-columns: 1fr 1fr;
 	align-items: center;
+}
+
+.slider {
+	width: 800px;
+	height: 500px;
+	overflow-y: hidden;
+}
+
+.holder {
+	height: 700%;
+}
+
+.slide {
 	width: 800px;
 	height: 500px;
 }
