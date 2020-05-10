@@ -1,0 +1,46 @@
+a {
+	text-decoration: none;
+	padding: 50px;
+}
+body {
+	
+}
+
+header {
+	text-align: center;
+}
+
+main {
+	display: flex;
+	margin: 0 auto;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row
+}
+
+article {
+	display: grid;
+	grid-template-areas:
+				"ingredients image"
+				"directions directions";
+	grid-template-rows: 1fr 1fr;
+	grid-template-columns: 1fr 1fr;
+	align-items: center;
+	width: 800px;
+	height: 500px;
+}
+
+.ingredients {
+	grid-area: ingredients;
+	display: flex;
+}
+
+.image {
+	grid-area: image;
+	display: flex;
+}
+
+.directions {
+	grid-area: directions;
+	display: flex;
+}
