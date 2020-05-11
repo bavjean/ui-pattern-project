@@ -1,4 +1,4 @@
-# UI-Pattern
+# Find New Recipes
 
 This project was to use an API to populate a web page. I chose to do it in a slider format so you can slide back and forth between the recipes chosen randomly by the API.
 
