@@ -31,6 +31,8 @@ a {
 
 body {
 	background-color: #23cfdc;
+	margin: 0;
+	padding: 0;
 }
 
 header {
