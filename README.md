@@ -20,3 +20,7 @@ Any and all feedback is appreciated. Feel free to submit a pull request to contr
 ## Author
 
 Brian Avjean
+
+## Acknowledgements
+
+I used [TheMealDB](https://www.themealdb.com/api.php) to populate the web page
