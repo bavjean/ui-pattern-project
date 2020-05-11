@@ -4,7 +4,7 @@ This project was to use an API to populate a web page. I chose to do it in a sli
 
 ## Getting Started
 
-1. The live page can be found here OR
+1. The live page can be found [here](https://bavjean.github.io/ui-pattern-project/lib/) OR
 2. Fork and clone the repository
 3. Navigate to new directory and load HTML in browser
 
