@@ -1,1 +1,22 @@
-# ui-pattern-project
+# UI-Pattern
+
+This project was to use an API to populate the page. I chose to do it in a slider format, where you can slide back and forth between the recipes chosen randomly by the API.
+
+## Getting Started
+
+1. The live page can be found here OR
+2. Fork and clone the repository
+3. Navigate to new directory and load HTML in browser
+
+## Prerequisites
+
+1. Web browser and/or text editor
+
+
+## Contributing
+
+Any and all feedback is appreciated. Feel free to submit a pull request to contribute.
+
+## Author
+
+Brian Avjean
