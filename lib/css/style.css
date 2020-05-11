@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Ubuntu:500&display=swap');
+
 a {
 	text-decoration: none;
 	padding: 25px;
@@ -7,6 +9,11 @@ a {
 	margin: 0 30px;
 	z-index: 3;
 }
+
+.previous {
+	color: #0F636E;
+}
+
 body {
 	background-color: #23cfdc;
 }
@@ -17,6 +24,7 @@ header {
 	color: white;
 	margin: 0;
 	padding: 5px;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 main {
@@ -35,12 +43,14 @@ article {
 	grid-template-rows: 2fr 1fr;
 	grid-template-columns: 1fr 1fr;
 	align-items: center;
+	font-family: 'Raleway', sans-serif;
 }
 
 .slider {
 	width: 800px;
 	height: 500px;
 	overflow: hidden;
+	/*border: 2px solid black;*/
 }
 
 .holder {

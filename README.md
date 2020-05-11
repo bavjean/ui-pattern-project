@@ -1,6 +1,6 @@
 # UI-Pattern
 
-This project was to use an API to populate the page. I chose to do it in a slider format, where you can slide back and forth between the recipes chosen randomly by the API.
+This project was to use an API to populate a web page. I chose to do it in a slider format so you can slide back and forth between the recipes chosen randomly by the API.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ This project was to use an API to populate the page. I chose to do it in a slide
 
 ## Prerequisites
 
-1. Web browser and/or text editor
+Web browser and/or text editor
 
 
 ## Contributing
