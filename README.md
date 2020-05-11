@@ -1,6 +1,6 @@
 # Find New Recipes
 
-This project was to use an API to populate a web page. I chose to do it in a slider format so you can slide back and forth between the recipes chosen randomly by the API.
+This project was to use an API to populate a web page. I chose to do it in a slider format so you can slide back and forth between the recipes that are chosen randomly by the API. Click on the title of each meal to see the full recipe. Refresh the page to get a new set of random recipes!
 
 ## Getting Started
 
